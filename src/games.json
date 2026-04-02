@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "url": "https://play2048.co/",
+    "description": "Join the numbers and get to the 2048 tile!"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "url": "https://tetris.com/play-tetris",
+    "description": "The classic block-stacking puzzle game."
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "description": "Classic arcade fun."
+  },
+  {
+    "id": "chess",
+    "title": "Chess",
+    "url": "https://www.chess.com/play/computer",
+    "description": "Test your strategy against the computer."
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "description": "The original dot-eating classic."
+  },
+  {
+    "id": "minesweeper",
+    "title": "Minesweeper",
+    "url": "https://minesweeper.online/game/1",
+    "description": "Clear the board without hitting a mine."
+  }
+]
